@@ -167,19 +167,6 @@ body {
   width: 1600px;
   height: 600px;
   border: 1px solid #000000;
-  /*background-image: linear-gradient(
-      to bottom,
-      rgba(47, 48, 58, 0.4) 50%,
-      rgba(47, 48, 58, 0.4) 50%
-    ),
-    url("../images/nowy.jpg");
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-color: var(--colorBackground);
-  width: 1600px;
-  height: 600px;
-  border: 1px solid #000000;*/
 }
 
 .hero-container {
