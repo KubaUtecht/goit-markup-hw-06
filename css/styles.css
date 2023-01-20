@@ -154,7 +154,7 @@ body {
 /*classes for hero-section*/
 
 .hero-image {
-  background-image: url("/images/nowy.jpg");
+  background-image: url("../images/nowy.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
