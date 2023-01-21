@@ -121,7 +121,7 @@ body {
 
 .mail:hover,
 .mail:focus {
-  stroke: #2196f3;
+  fill: #2196f3;
   cursor: pointer;
   transition-duration: 250ms;
   transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
@@ -139,7 +139,7 @@ body {
 
 .phone:hover,
 .phone:focus {
-  stroke: #2196f3;
+  fill: #2196f3;
   cursor: pointer;
   transition-duration: 250ms;
   transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
