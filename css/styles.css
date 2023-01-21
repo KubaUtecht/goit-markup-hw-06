@@ -9,7 +9,7 @@ body {
 :root {
   --colorBackground: #2f303a;
 }
-/*ogólna sekcja*/
+/*====================ALL SECTION=========================*/
 
 .section {
   padding-top: 94px;
@@ -17,7 +17,7 @@ body {
   display: flex;
 }
 
-/*classes for header*/
+/*====================classes for header==========================*/
 
 .logo {
   font-family: "Raleway";
@@ -151,7 +151,7 @@ body {
   margin: auto 15px;
 }
 
-/*classes for hero-section*/
+/*=====================classes for hero-section=========================*/
 
 .hero-image {
   background-image: linear-gradient(
@@ -203,7 +203,7 @@ body {
   transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-/* first section */
+/*==================CLASSES FOR FIRST SECTION====================*/
 
 .container-services {
   display: flex;
@@ -302,7 +302,7 @@ body {
   padding-top: 27px;
 }
 
-/* second section*/
+/* ===============CLASSES FOR SECOND SECTION=================*/
 
 .secondary-head-2 {
   font-weight: 700;
@@ -414,7 +414,7 @@ body {
   fill: #757575;
 }
 
-/* third section */
+/* ====================CLASSES FOR THIRD SECTION=====================*/
 
 .third-section {
   width: 1170px;
@@ -466,7 +466,7 @@ body {
   fill: #757575;
 }
 
-/*====================footer section======================*/
+/*====================CLASSES FOR FOOTER SECTION======================*/
 
 .background {
   height: 252px;
@@ -648,7 +648,7 @@ body {
   letter-spacing: 0.06em;
   color: #ffffff;
 }
-/* ==========portfolio page============ */
+/* ============== CLASSES FOR PORTFOLIO SECTION ============== */
 
 .filter-button {
   list-style: none;
@@ -775,7 +775,7 @@ body {
   color: #212121;
 }
 
-/* ===================BACKDROP===================== */
+/* ===================BACKDROP & MODAL WINDOW===================== */
 
 .backdrop {
   width: 100%;
